@@ -29,5 +29,7 @@ Here are some ideas to get you started:
 
 
 
-!Aadi's github stats](https://github-readme-stats.vercel.app/api?username=aadityamohapatra&theme=tokyonight&layout=compact&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityamohapatra&theme=tokyonight&layout=compact&count_private=true)](https://github.com/Snooder/github-readme-stats)
+!Aadi's github stats]
+(https://github-readme-stats.vercel.app/api?username=aadityamohapatra&theme=tokyonight&layout=compact&count_private=true)
+
+[[TopLangs:(https://githubreadmestats.vercel.app/api/toplangs/username=aadityamohapatra&theme=tokyonight&layout=compact&count_private=true(https://github.com/aadityamohapatra/github-readme-stats)
