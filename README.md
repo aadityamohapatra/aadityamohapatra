@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 
 
-![Matt's github stats](https://github-readme-stats.vercel.app/api?username=aadityamohapatra&theme=tokyonight&layout=compact&count_private=true)
+![Aadi's github stats](https://github-readme-stats.vercel.app/api?username=aadityamohapatra&theme=tokyonight&layout=compact&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityamohapatra&theme=tokyonight&layout=compact&count_private=true)](https://github.com/aadityamohapatra/github-readme-stats)
